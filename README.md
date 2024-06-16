@@ -15,8 +15,11 @@ The "Wanderlust Project" aims to fulfill the ever-growing need for meaningful tr
 # *OBJECTIVES :-*
 
 • To streamline the hotel booking process for users, making it intuitive and efficient.
+
 • To develop a comprehensive database of hotels with detailed information on amenities, pricing, and availability.
+
 • To implement a user-friendly interface that allows easy navigation, search, and comparison of hotel options.
+
 • To provide real-time updates on hotel availability and pricing to users.
 
 # *SOFTWARE REQUIREMENTS:-*
