@@ -1,6 +1,6 @@
 # Wanderlust
 
-INTRODUCTION
+*INTRODUCTION*
 
 The Wanderlust web development project embarks on a journey to redefine the digital landscape of travel exploration. Rooted in the profound human desire for adventure and discovery, Wanderlust is a visionary platform that seamlessly combines technology with the spirit of wanderlust. Our goal is to create a captivating online space where individuals can not only document their travel experiences but also connect with a global community of like-minded explorers. Through an intuitive user interface, immersive multimedia features, and cutting-edge algorithms, Wanderlust transforms travel storytelling into an interactive and communal endeavor. This project is more than a web platform; it's a dynamic gateway for users to share, discover, and be inspired by the diverse tapestry of human exploration, bringing the world closer together through the common language of wanderlust.
 
