@@ -19,6 +19,14 @@ The "Wanderlust Project" aims to fulfill the ever-growing need for meaningful tr
 • To implement a user-friendly interface that allows easy navigation, search, and comparison of hotel options.
 • To provide real-time updates on hotel availability and pricing to users.
 
+# *SOFTWARE REQUIREMENTS:-*
+
+Web Server 
+
+APIs (Application Programming Interfaces)
+
+Database Server  
+
 
 
 
