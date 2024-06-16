@@ -22,13 +22,19 @@ The "Wanderlust Project" aims to fulfill the ever-growing need for meaningful tr
 
 • To provide real-time updates on hotel availability and pricing to users.
 
+
+
 # *SOFTWARE REQUIREMENTS:-*
 
-Web Server 
+Install npm and its pacakes like password,multer,multer-storage etc.
 
-APIs (Application Programming Interfaces)
+APIs (Application Programming Interfaces) for Cloud storage and Map.
 
-Database Server  
+Install the MongoDB for Database.
+
+// Create the .env file and store the Cloud and Map api's.
+
+
 
 
 
