@@ -6,13 +6,13 @@ The Wanderlust web development project embarks on a journey to redefine the digi
          
 
 
-#* NEED OF WORK :-*
+# *NEED OF WORK :-*
 
 The "Wanderlust Project" aims to fulfill the ever-growing need for meaningful travel experiences that not only satisfy the urge to explore but also promote sustainability and cultural appreciation. In a world increasingly connected yet paradoxically disjointed, this project provides a platform for individuals to deeply engage with diverse cultures, landscapes, and communities in a manner that respects local traditions and environments. By focusing on immersive and responsible travel, the Wanderlust Project addresses the desire of modern travelers to have impactful, enriching journeys that contribute positively to the destinations they visit, thereby fostering a global community that values intercultural understanding and sustainable tourism practices.
 
 
 
-#* OBJECTIVES :-*
+# *OBJECTIVES :-*
 
 • To streamline the hotel booking process for users, making it intuitive and efficient.
 • To develop a comprehensive database of hotels with detailed information on amenities, pricing, and availability.
